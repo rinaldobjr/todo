@@ -1,8 +1,8 @@
 # todo-list
 Todo List
 
- ![]('./imagem/todolist.jpeg') 
-
+ ![ToDO]('https://github.com/rinaldobjr/todo-list/imagem/todolist.png')
+ 
 1. Definição do Projeto
     O projeto é a implementação de uma simples To Do (Para Fazer) com as seguintes caracteristicas de Status:
     0 - Para fazer
