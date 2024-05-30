@@ -1,4 +1,4 @@
-package com.examplo.todo_list;
+package com.exemplo.todo_list;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
